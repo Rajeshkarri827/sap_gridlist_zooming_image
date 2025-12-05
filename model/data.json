@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "title": "Wireless Bluetooth Headphones",
+      "subtitle": "Over-ear noise-cancelling",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 2999,
+      "currency": "INR"
+    },
+    {
+      "title": "Smart Fitness Band",
+      "subtitle": "Tracks steps, sleep & heart rate",
+      "image": "/images/SmartFitnessBand.jpeg",
+      "price": 1499,
+      "currency": "INR"
+    },
+    {
+      "title": "4K Ultra HD Monitor",
+      "subtitle": "27-inch frameless display",
+      "image": "/images/4KUltraHDMonitor.webp",
+      "price": 18999,
+      "currency": "INR"
+    },
+    {
+      "title": "Portable Power Bank 20,000mAh",
+      "subtitle": "Fast charging support",
+      "image": "/images/potablePowerBank.webp",
+      "price": 1299,
+      "currency": "INR"
+    },
+    {
+      "title": "Laptop Backpack",
+      "subtitle": "Water-resistant, 15.6-inch",
+      "image": "/images/LaptopBackpack.webp",
+      "price": 899,
+      "currency": "INR"
+    },
+    {
+      "title": "Ergonomic Office Chair",
+      "subtitle": "Adjustable height & lumbar support",
+      "image": "/images/ergonomicOfficeChair.jpg",
+      "price": 5499,
+      "currency": "INR"
+    },
+    {
+      "title": "Wireless Mouse",
+      "subtitle": "Rechargeable, silent clicks",
+      "image": "/images/WirelessMouse.jpg",
+      "price": 599,
+      "currency": "INR"
+    },
+    {
+      "title": "USB-C Charging Cable",
+      "subtitle": "Premium braided design",
+      "image": "/images/USBChargingCable.jpg",
+      "price": 299,
+      "currency": "INR"
+    },
+    {
+      "title": "Mobile",
+      "subtitle": "RGB backlight mechanical keys",
+      "image": "/images/bluetoothheadset.webp",
+      "currency": "INR"
+    },
+    {
+      "title": "Home Security Camera",
+      "subtitle": "Night vision + motion detection",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 2499,
+      "currency": "INR"
+    },
+    {
+      "title": "Smart LED Bulb",
+      "subtitle": "Supports Alexa & Google Home",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 399,
+      "currency": "INR"
+    },
+    {
+      "title": "Stainless Steel Water Bottle",
+      "subtitle": "1-liter, keeps cold for 24 hrs",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 599,
+      "currency": "INR"
+    },
+    {
+      "title": "Wireless Charger Pad",
+      "subtitle": "Compatible with all Qi devices",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 899,
+      "currency": "INR"
+    },
+    {
+      "title": "Mini Portable Speaker",
+      "subtitle": "Compact design with deep bass",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 1299,
+      "currency": "INR"
+    },
+    {
+      "title": "Travel Adapter",
+      "subtitle": "Universal plug support",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 499,
+      "currency": "INR"
+    },
+    {
+      "title": "Smartphone Tripod Stand",
+      "subtitle": "Extendable with Bluetooth remote",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 799,
+      "currency": "INR"
+    },
+    {
+      "title": "Car Mobile Holder",
+      "subtitle": "360° adjustable mount",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 299,
+      "currency": "INR"
+    },
+    {
+      "title": "Air Purifier",
+      "subtitle": "HEPA filter, low noise",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 8999,
+      "currency": "INR"
+    },
+    {
+      "title": "Noise-Cancelling Earbuds",
+      "subtitle": "Long battery life",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 1999,
+      "currency": "INR"
+    },
+    {
+      "title": "Foldable Laptop Stand",
+      "subtitle": "Aluminum, adjustable height",
+      "image": "/images/bluetoothheadset.webp",
+      "price": 699,
+      "currency": "INR"
+    }
+  ]
+}
+ 

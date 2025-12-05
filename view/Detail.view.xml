@@ -1,0 +1,32 @@
+<mvc:View
+    controllerName="naruto.gridlist.controller.Detail"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+
+    <Page
+        id="detailPage"
+        title="Product Details"
+        showNavButton="true"
+        navButtonPress="onBack">
+
+        <VBox id="_IDGenVBox1" class="sapUiLargeMargin">
+
+            <Image 
+                id="_IDGenImage1" 
+                src="{detail>/image}" 
+                width="250px"
+                press="onImagePress"
+                decorative="false"
+            />
+
+            <Title id="_IDGenTitle2" text="{detail>/title}" level="H1" />
+
+            <Label id="_IDGenLabel1" text="{detail>/subtitle}" wrapping="true" />
+
+            <ObjectNumber id="_IDGenObjectNumber2" number="{detail>/price}" unit="{detail>/currency}" />
+
+        </VBox>
+
+    </Page>
+
+</mvc:View>

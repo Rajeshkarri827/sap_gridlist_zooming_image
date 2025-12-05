@@ -1,0 +1,45 @@
+<mvc:View
+    controllerName="naruto.gridlist.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:f="sap.f"
+    xmlns:cssgrid="sap.ui.layout.cssgrid">
+
+    <Page id="page" title="Product List">
+
+        <Slider id="_IDGenSlider1" value="100" liveChange="onSliderMoved" />
+
+        <Panel id="panelForGridList" backgroundDesign="Transparent">
+
+            <headerToolbar>
+                <Toolbar id="_IDGenToolbar1" height="3rem">
+                    <Title id="_IDGenTitle1" text="All Products" />
+                </Toolbar>
+            </headerToolbar>
+
+            <f:GridList
+                id="gridList"
+                items="{/items}"
+                itemPress="onItemPress">
+
+                <f:customLayout>
+                    <cssgrid:GridBoxLayout id="_IDGenGridBoxLayout"  />
+                </f:customLayout>
+
+                <f:GridListItem id="_IDGenGridListItem" type="Active" class="gridItemHover">
+                    <VBox id="_IDGenVBox2"  class="sapUiSmallMargin">
+
+                        <Image id="_IDGenImage"  src="{image}" width="100%" height="150px" />
+
+                        <Title id="_IDGenTitle"  text="{title}" wrapping="true" />
+                        <Label id="_IDGenLabel"  text="{subtitle}" wrapping="true" />
+                        <ObjectNumber id="_IDGenObjectNumber" number="{price}" unit="{currency}" />
+
+                    </VBox>
+                </f:GridListItem>
+
+            </f:GridList>
+
+        </Panel>
+    </Page>
+</mvc:View>
