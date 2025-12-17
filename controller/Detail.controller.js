@@ -30,14 +30,14 @@ sap.ui.define([
             if (!this._oImageDialog) {
                 this._oImageDialog = new sap.m.Dialog({
                     title: "Zoomed Image",
-                    contentWidth: "90%",
-                    contentHeight: "90%",
+                    contentWidth: "60%",
+                    contentHeight: "60%",
                     stretch: true,   
                     content: [
                         new sap.m.Image({
                             src: "{detail>/image}",
-                            width: "100%",
-                            height: "100%",
+                            width: "50%",
+                            height: "50%",
                             densityAware: false
                         })
                     ],
